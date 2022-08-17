@@ -4,9 +4,9 @@
 
 #pragma comment(lib, "ws2_32")
 
-#define PORT 33481
+#define PORT 65
 #define PACKET_SIZE 1024
-#define SERVER_IP "10.1.1.130"
+#define SERVER_IP "server_ip"
 
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 
