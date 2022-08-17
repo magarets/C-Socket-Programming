@@ -3,8 +3,8 @@
 
 #pragma comment(lib, "ws2_32")
 
-#define PORT 33481
-#define SERVER_IP "169.254.89.105"
+#define PORT 65
+#define SERVER_IP "myip"
 #define PACKET_SIZE 1024
 
 int main() {
